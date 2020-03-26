@@ -1,0 +1,21 @@
+[
+  {
+    "id": 20,
+    "name": "Palace",
+    "coordinates": {
+      "x": 10,
+      "y": 10.0
+    },
+    "creationDate": "Mar 25, 2020 4:01:19 PM",
+    "area": 2,
+    "numberOfRooms": 10,
+    "furniture": true,
+    "view": "BAD",
+    "transport": "NORMAL",
+    "house": {
+      "name": "loop",
+      "year": 1989,
+      "numberOfLifts": 10
+    }
+  }
+]

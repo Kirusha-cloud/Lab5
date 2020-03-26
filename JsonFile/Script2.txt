@@ -1,0 +1,2 @@
+show
+execute_script C:\IdeaProj\Lab5\JsonFile\Script2.txt
